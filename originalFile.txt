@@ -1,0 +1,3 @@
+This is original file....
+contents from here will be copied to another file
+This is Ques 2
