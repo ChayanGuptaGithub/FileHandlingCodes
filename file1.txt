@@ -1,0 +1,3 @@
+This is for Ques 1 to read the file.....
+
+First I created a .txt file then write that code now the contents are being displayed in terminal window
